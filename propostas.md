@@ -1,12 +1,14 @@
 # Proposta 01
 
-## Título: Sistema_de_Achados_e_Perdidos_do_IFNMG
+## Título: Sistema de Achados e Perdidos do IFNMG
 
 ### Descrição: Criação de uma plataforma web para gerenciar itens perdidos e encontrados dentro da instituição, facilitando a recuperação de objetos por seus donos.
 
 ### Problema a ser solucionado: Muitas instituições, como escolas e empresas, enfrentam o problema de gerenciar itens perdidos e encontrados. Sem um sistema eficiente, esses itens muitas vezes permanecem sem serem reclamados, causando frustração para os proprietários e desperdício de recursos.
 
 ### Público alvo: Estudantes, funcionários e visitantes da instituição educacional.
+
+### Funcionalidades:
 
 ### 1. Cadastro de itens encontrados (com descrição e foto).
 ### 2. Pesquisa de itens perdidos (por palavras-chave e categoria).
@@ -19,7 +21,7 @@
 
 # Proposta 02
 
-## Título: Dayana_Jóias_Alternativas
+## Título: Dayana - Jóias Alternativas
 
 ### Descrição: Um e-commerce para a venda de joias, chamado Dayane Jóias Alternativas. O site oferecerá uma plataforma onde os clientes podem visualizar e comprar joias, verificar detalhes dos produtos e realizar pagamentos online.
 
@@ -27,7 +29,8 @@
 
 ### Público alvo: Amantes de joias de qualquer gênero, pessoas buscando presentes e compradores online, de regiões próximas, interessados em joias de qualidade.
 
-### Funcionalidades
+### Funcionalidades:
+
 ### 1. Exibição de catálogo de joias com imagens e descrições.
 ### 2. Sistema de filtro e pesquisa de produtos.
 ### 3. Opção de adicionar produtos ao carrinho e realizar checkout.
@@ -39,7 +42,7 @@
 
 # Proposta 03
 
-## Título: Clubes_do_IFNMG
+## Título: Clubes do IFNMG
 
 ### Descrição: Um site destinado a facilitar a inscrição e gerenciamento de clubes escolares. O objetivo é permitir que os alunos se inscrevam em diferentes clubes, visualizem informações sobre as atividades e eventos dos clubes, e acompanhem suas participações.
 
@@ -47,7 +50,8 @@
 
 ### Público alvo: Alunos da escola, coordenadores e líderes de clubes e funcionários da escola responsáveis pela administração dos clubes.
 
-### Funcionalidades
+### Funcionalidades:
+
 ### 1. Permitir que os coordenadores de clubes registrem seus clubes, fornecendo informações como nome, descrição, atividades, horários de reunião e requisitos de inscrição.
 ### 2. Facilitar a inscrição dos alunos em clubes através de um formulário online. Os alunos podem escolher os clubes de interesse e se inscrever diretamente pelo site.
 ### 3. Oferecer uma lista ou visualização de clubes disponíveis, com detalhes sobre suas atividades e horários.

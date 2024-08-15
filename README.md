@@ -1,4 +1,4 @@
-# trabalho-final-web
+# Aline, Gabriel, Isabelly, Kauê, Mirella, Ráiny
 Trabalho final da disciplina de WEB
 
 # 171Tech

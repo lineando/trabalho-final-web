@@ -14,4 +14,4 @@ Trabalho final da disciplina de WEB
 
 ### Link do FIGMA
 
-https://www.figma.com/proto/5XXLVW4oowsh1QYCpR3jm4/Achados%26Perdidos?node-id=0-1&t=ITy6Kk0kSYwL86Ej-1&authuser=2
+https://www.figma.com/community/file/1426757915493393504/achados-perdidos

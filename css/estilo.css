@@ -1,0 +1,30 @@
+body{
+    background-color: white;
+}
+.menu-container {
+    width: 250px;
+    padding: 20px;
+    background-color: #8fb089; 
+    border-radius: 15px;
+    margin: 50px auto;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+    display: flex;
+    flex-direction: column;
+    gap: 15px;
+}
+
+/* Estilo dos botões */
+.menu-container button {
+    padding: 15px;
+    font-size: 16px;
+    background-color: #e8e8e8; /* Cor cinza dos botões */
+    color: #333;
+    border: none;
+    border-radius: 10px;
+    cursor: pointer;
+    transition: background-color 0.3s;
+}
+
+.menu-container button:hover {
+    background-color: #d3d3d3; /* Cor ao passar o mouse */
+}

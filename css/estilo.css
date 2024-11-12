@@ -1,23 +1,32 @@
 body{
     background-color: white;
 }
+
+
+#header
+{
+ background-color: #222222; 
+    
+}
 .menu-container {
     width: 250px;
     padding: 20px;
     background-color: #8fb089; 
     border-radius: 15px;
-    margin: 50px auto;
+    margin: 170px auto;
     box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
     display: flex;
     flex-direction: column;
     gap: 15px;
+    text-align: center;
+   
 }
 
-/* Estilo dos botões */
+
 .menu-container button {
     padding: 15px;
     font-size: 16px;
-    background-color: #e8e8e8; /* Cor cinza dos botões */
+    background-color: #ebe8e8; 
     color: #333;
     border: none;
     border-radius: 10px;
@@ -26,5 +35,5 @@ body{
 }
 
 .menu-container button:hover {
-    background-color: #d3d3d3; /* Cor ao passar o mouse */
+    background-color: #6beeb1;
 }
